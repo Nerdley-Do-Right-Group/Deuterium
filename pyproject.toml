@@ -3,7 +3,7 @@ requires = ["setuptools>=68.0"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "deuterium"
+name = "deuterium" #bro what is this name I did not agree to this
 version = "0.1.0"
 description = "A fast, no-nonsense CLI tool for detecting SMS spam using scikit-learn."
 readme = "README.MD"
