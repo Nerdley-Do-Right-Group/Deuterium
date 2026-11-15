@@ -3,4 +3,5 @@ scikit-learn>=1.5
 joblib>=1.4
 
 # Testing (because "it worked on my machine" is not a test suite)
+# Ima have some input on this with absolutely zero use whatsoever
 pytest>=8.0
