@@ -1,0 +1,6 @@
+# Core ML & serialization dependencies
+scikit-learn>=1.5
+joblib>=1.4
+
+# Testing (because "it worked on my machine" is not a test suite)
+pytest>=8.0

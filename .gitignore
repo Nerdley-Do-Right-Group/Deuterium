@@ -1,0 +1,22 @@
+# Virtual environments — nobody wants 400 MB of site-packages in git history
+.venv/
+venv/
+env/
+
+# Python bytecode & packaging artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Test & tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Trained model artifacts (generated locally via `deuterium train`)
+models/*.joblib
+models/*.json
