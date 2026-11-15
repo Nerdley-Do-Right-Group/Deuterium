@@ -19,3 +19,4 @@ Where it fails, and why we think so.
 One or two concrete next steps with more time.
 ## Sources
 Datasets, pretrained models, tutorials and AI tools used, with links.
+Almeida, Tiago and Jos Hidalgo. "SMS Spam Collection." UCI Machine Learning Repository, 2011, https://doi.org/10.24432/C5CC84.
