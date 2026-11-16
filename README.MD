@@ -15,8 +15,8 @@ Starting from SMSSpam filter, we added about 4,000 lines and exaples for trainin
 Data: which dataset, how many examples, how we cleaned it.
 Model: what we used and why.
 ## Results
-Our baseline scored X. Our model scored Y on held-out test data.
-Where it fails, and why we think so.
+Our f1 baseline was 86%, and our final is 98.03%.
+It may fail if it gets a message its database does not cover. 
 ## What we'd do next
 One or two concrete next steps with more time.
 ## Sources
