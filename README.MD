@@ -18,7 +18,7 @@ Model: what we used and why.
 We used a heavily modified version of the provided sms database. It trains the model with the CPU based on the dataset in the folder. We use 9,020 example messages to train it. We did this to minimize overhead for mobile devices where the code would be most likely deployed.
 
 ## Results
-Our f1 baseline was 86%, and our final is 98.03%.
+Our f1 baseline was 86%, and our final is 98.04%.
 It may fail if it gets a message its database does not cover. 
 ## What we'd do next
 add a gui for integrations in chats, testing, and for users to edit settings.
