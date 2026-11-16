@@ -18,7 +18,7 @@ Model: what we used and why.
 Our f1 baseline was 86%, and our final is 98.03%.
 It may fail if it gets a message its database does not cover. 
 ## What we'd do next
-One or two concrete next steps with more time.
+add a gui for integrations in chats, testing, and for users to edit settings.
 ## Sources
 Datasets, pretrained models, tutorials and AI tools used, with links.
 
