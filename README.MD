@@ -14,6 +14,9 @@ Starting from SMSSpam filter, we added about 4,000 lines and exaples for trainin
 ## How it works
 Data: which dataset, how many examples, how we cleaned it.
 Model: what we used and why.
+
+We used a heavily modified version of the provided sms database. It trains the model with the CPU based on the dataset in the folder. We use 9,020 example messages to train it. We did this to minimize overhead for mobile devices where the code would be most likely deployed.
+
 ## Results
 Our f1 baseline was 86%, and our final is 98.03%.
 It may fail if it gets a message its database does not cover. 
