@@ -7,9 +7,7 @@ Many people have to unfortunately deal with spam messages. The most common targe
 ## What we built
 What goes in, what comes out, and how someone would use it.
 ## What we added
-If you started from a suggested project: which one, and what you added
-or changed (your own user, data or question). Otherwise, write "Our own
-idea".
+Starting from SMSSpam filter, we added about 4,000 lines and exaples for training the ai of various forms, all from real life spam calls, as well as examples of normal (ham) messages.
 ## How it works
 Data: which dataset, how many examples, how we cleaned it.
 Model: what we used and why.
