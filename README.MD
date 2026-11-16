@@ -3,7 +3,7 @@
 
 **Team:** Luke, Sawyer, and Joel
 ## The problem
-Who has this problem, and why does it matter? (2-3 sentences)
+Many people have to unfortunately deal with spam messages. The most common target for such messages are the elderly, however, anyone found in a data breach has to deal with these messages. Sometimes, especially for the elderly, they can be very tricky. Thus proposes the problem: how can we prevent such messages from annoying and even initiating a transaction where the victim gets stolen from?
 ## What we built
 What goes in, what comes out, and how someone would use it.
 ## What we added
